@@ -1,0 +1,31 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Nodejs server for vocal coin platform",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vocal",
+    "coin",
+    "server",
+    "node"
+  ],
+  "author": "Vocal",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "async": "^2.6.0",
+    "axios": "^0.17.1",
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "express": "^4.16.2",
+    "firebase-admin": "^5.6.0",
+    "passport": "^0.4.0",
+    "passport-http-bearer": "^1.0.1",
+    "pg": "^7.4.0",
+    "pg-escape": "^0.2.0",
+    "request": "^2.83.0",
+    "socket.io": "^2.0.4"
+  }
+}
