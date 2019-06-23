@@ -66,12 +66,11 @@ export default class Home extends Component {
                 </div>
                 <Row>
                     <Col xs={12} md={12}>
-                        <h1 className="centered neo-logo-text">Built on the NEO Blockchain</h1>
-                        <img src={neoLogo} alt="Neo" className="centered neo-logo"/>
+                        {/* <h1 className="centered neo-logo-text"></h1> */}
+                        {/* <img src={neoLogo} alt="Neo" className="centered neo-logo"/> */}
 
-                        <h3 className="centered neo-logo-text">Vocal Coin is a NEP-5 (Neo-based) Cryptocurrency <br/>Earn
-                            Vocal by voting and participating in active issues</h3>
-                        <h4 className="centered neo-logo-text">All you need is an email and password to get started</h4>
+                        <h3 className="centered neo-logo-text">Start Earning.</h3>
+                        <h4 className="centered neo-logo-text">EarnVocal by voting and participating in active issues.<br/>All you need is an email and password to get started.</h4>
 
                     </Col>
                 </Row>

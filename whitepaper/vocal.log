@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  10 MAR 2018 00:28
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  10 MAR 2019 00:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1040,15 +1040,15 @@ LaTeX Font Info:    Try loading font information for U+txsyc on input line 158.
 (/usr/local/texlive/2017/texmf-dist/tex/latex/txfonts/utxsyc.fd
 File: utxsyc.fd 2000/12/15 v3.1
 ) [2 <./assets/architecture.png>]
-Missing character: There is no â in font txr!
-Missing character: There is no € in font txr!
-Missing character: There is no ™ in font txr!
-Missing character: There is no â in font txr!
-Missing character: There is no € in font txr!
-Missing character: There is no ™ in font txr!
-Missing character: There is no â in font txr!
-Missing character: There is no € in font txr!
-Missing character: There is no ™ in font txr!
+Missing character: There is no ï¿½ in font txr!
+Missing character: There is no ï¿½ in font txr!
+Missing character: There is no ï¿½ in font txr!
+Missing character: There is no ï¿½ in font txr!
+Missing character: There is no ï¿½ in font txr!
+Missing character: There is no ï¿½ in font txr!
+Missing character: There is no ï¿½ in font txr!
+Missing character: There is no ï¿½ in font txr!
+Missing character: There is no ï¿½ in font txr!
 LaTeX Font Info:    Try loading font information for OT1+txss on input line 207
 .
 

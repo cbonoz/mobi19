@@ -1,17 +1,28 @@
 
-# Vocal Website code
+# Vocal Coin Website
 ---
 
-<!-- TODO: add screenshots of the web application -->
 
 ### Dev Notes
 (alternatively can use npm)
+
+Define the following environment variables:
+<pre>
+    REACT_APP_VOCAL_FIRE_KEY // (firebase api key)
+    REACT_APP_VOCAL_MAP_KEY // (google maps api key)
+</pre>
+
+Start the project.
 
 ```
 yarn 
 yarn start
 ```
-To create a production build
+
+The web app should now be running on port 3000.
+
+
+### Creating a production build
 ```
 yarn build
 ```

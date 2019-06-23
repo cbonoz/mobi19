@@ -110,7 +110,7 @@ class App extends Component {
     }
 
     componentWillUnmount() {
-        this.removeListener()
+        this.removeListener && this.removeListener()
     }
 
     render() {

@@ -21,7 +21,7 @@ export default class Footer extends Component {
                             <a href="mailto:blackshoalgroup@gmail.com">Contact</a>
                         </p>
 
-                        <p className="footer-company-name">Vocal Project &copy; 2018</p>
+                        <p className="footer-company-name">Vocal Project &copy; 2019</p>
 
                         <div className="footer-icons">
                             {/*<a href="/"><i className="fa fa-facebook"></i></a>*/}

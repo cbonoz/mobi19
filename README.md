@@ -6,7 +6,7 @@ A Distributed Political Currency.
 
 Vocal is a currency and economy for promoting social change and civic engagement.
 
-We have a running open beta website at <a href="https://www.vocalcoin.com">vocalcoin.com</a>
+We have a running open beta website at <a href="https://www.vocalcoins.com">vocalcoins.com</a>
 
 Simply create a new account (email and pass) and you will get started with 50 Vocal coin.
 
@@ -18,7 +18,7 @@ Simply create a new account (email and pass) and you will get started with 50 Vo
 - No widely accessible platform for political engagement and discovery on a local / map scale.
 - Yelp-like platform enables map-search of active political issues. Quickly and easily find the issues that are most pertinent to you and your community, without having to sift through a huge world of political agendas and issues.
 
-<i>*citation to come.</i>
+<i>*citation to come.</i
 
 ### How it works:
 
@@ -31,7 +31,7 @@ Simply create a new account (email and pass) and you will get started with 50 Vo
 
 Vocal is not an investment vehicle, and is earned and spent by the individuals of the Vocal platform themselves. Currently Vocal can be earned by voting on existing issues (+5 Vocal per vote) and spent by creating new issues which you can track publicly (-50 Vocal). 
 
-Create an account at <a href="https://www.vocalcoin.com">vocalcoin.com</a> to get started.
+Create an account at <a href="https://www.vocalcoins.com">vocalcoins.com</a> to get started.
 
 ### Screenshots
 

@@ -15,12 +15,12 @@
 #
 server {
        listen         80;
-       server_name    vocalcoin.com *.vocalcoin.com;
+       server_name    vocalcoins.com *.vocalcoins.com;
        return         301 https://$host$request_uri;
 }
 
 server {
-        server_name vocalcoin.com *.vocalcoin.com;
+        server_name vocalcoins.com *.vocalcoins.com;
 
 	root /home/ubuntu/vocal/build;
 	index index.html index.htm index.nginx-debian.html;
@@ -45,8 +45,8 @@ server {
 	}
 
 	listen 443 ssl; # managed by Certbot
-	ssl_certificate /etc/letsencrypt/live/vocalcoin.com/fullchain.pem; # managed by Certbot
-	ssl_certificate_key /etc/letsencrypt/live/vocalcoin.com/privkey.pem; # managed by Certbot
+	ssl_certificate /etc/letsencrypt/live/vocalcoins.com/fullchain.pem; # managed by Certbot
+	ssl_certificate_key /etc/letsencrypt/live/vocalcoins.com/privkey.pem; # managed by Certbot
 	include /etc/letsencrypt/options-ssl-nginx.conf; # managed by Certbot
 	ssl_dhparam /etc/letsencrypt/ssl-dhparams.pem; # managed by Certbot
 

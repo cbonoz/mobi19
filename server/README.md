@@ -1,21 +1,27 @@
-# Server for Vocal coin
+Vocal Coin Server
+--
 
-Manages coin balances and inquiries.
+Manage coin balances, votes, and topics for the Vocal platform.
 
 ### Dev Notes
+
+Define the following environment variables
+<pre>
+    ADMIN_DB_USER
+    ADMIN_DB_PASS
+</pre>
+
+With postgres running on port 5432 with database 'vocal' already created.
+
+Run the following commands.
 
 ```
 yarn
 yarn start
 ```
 
-TODO: this may be better suited as a lambda function.
-
-
 ### Useful Links
 https://github.com/ConsenSys/eth-lightwallet
 
 
 ### Common errors:
-
-* Couldn't find package "web3-requestManager" on the "npm" registry<>
